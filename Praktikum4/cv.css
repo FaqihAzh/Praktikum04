@@ -1,0 +1,106 @@
+body {
+    background: radial-gradient(#fdbb2d, #22c1c3);
+}
+
+fieldset {
+    border-color: orangered;
+}
+
+.satu img {
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    padding-top: 15px;
+}
+
+.satu {
+    display: flex;
+    justify-content: center;
+}
+
+.satu, .dua, .tiga {
+    padding: 25px;
+}
+
+.tiga {
+    display: flex;
+    justify-content: center;
+}
+
+.tiga video {
+    width: 100%;
+    height: 190px;
+}
+
+.tiga audio {
+    width: 50%;
+    height: 50px;
+    margin-left: 25%;
+}
+
+.tiga img {
+    width: 120px;
+    height: 120px;
+}
+
+.tigasatu, .tigadua, .tigatiga {
+    border-style: solid;
+    border-width: 2px;
+    margin: 5px;
+    padding: 20px;
+    border-color: orangered;
+}
+
+.tigasatu, .tigatiga {
+    width: 25%;
+}
+
+.tigatiga a {
+    text-decoration: none;
+}
+
+.tigatiga {
+    text-align: center;
+}
+
+.tigaduasatu, .tigaduadua {
+    display: flex;
+    margin-left: auto;
+}
+
+.tigaduasatu img, .tigaduadua img {
+    padding: 2px;
+
+}
+
+span {
+    color: rgb(255, 51, 0);
+}
+
+.nol, .dua {
+    text-align: center;
+}
+
+table {
+    margin-left: 5%;
+    padding-bottom: 5%;
+}
+
+.aaa {
+    border-color: orangered;
+    width: 500px;
+}
+
+.bbb {
+    border-color: orangered;
+    width: 800px;
+}
+
+p {
+    font-size: 13pt;
+}
+
+h2 {
+    font-size: 16px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
